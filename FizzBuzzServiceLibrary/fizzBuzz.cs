@@ -24,12 +24,12 @@ namespace FizzBuzzServiceLibrary
         }
        
         public void setResponse(int i) {
-            if (i % 3 == 0 && i % 5 == 0) { Response = " FizzBuzz"; }
+            if (i % 3 == 0 && i % 5 == 0) { Response = "FizzBuzz"; }
             else if (i % 3 == 0)
             { Response = "Fizz"; }
             else if (i % 5 == 0)
             {
-                Response = "Buzz,";
+                Response = "Buzz";
             }
             else Response = i.ToString();
             registro = DateTime.Now;

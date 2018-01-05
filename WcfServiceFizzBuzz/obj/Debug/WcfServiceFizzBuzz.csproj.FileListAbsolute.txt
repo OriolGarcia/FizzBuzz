@@ -9,3 +9,16 @@ c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\WcfServ
 c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\obj\Debug\WcfServiceFizzBuzz.pdb
 c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\log4net.dll
 c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\log4net.xml
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\nunit.framework.dll
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\nunit.framework.xml
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\nunit.engine.dll
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\nunit.engine.api.dll
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\Mono.Cecil.dll
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\NUnit3.TestAdapter.dll
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\Mono.Cecil.Pdb.dll
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\Mono.Cecil.Mdb.dll
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\Mono.Cecil.Rocks.dll
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\nunit-agent-x86.exe
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\nunit-agent.exe
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\nunit-agent.exe.config
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\nunit-agent-x86.exe.config

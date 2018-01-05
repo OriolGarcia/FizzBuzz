@@ -6,3 +6,16 @@ c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\FizzBuz
 c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\obj\Debug\FizzBuzzServiceLibrary.pdb
 c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\log4net.dll
 c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\log4net.xml
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\nunit.framework.dll
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\nunit.framework.xml
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\nunit.engine.dll
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\nunit.engine.api.dll
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\Mono.Cecil.dll
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\nunit-agent-x86.exe
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\nunit-agent.exe
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\nunit-agent.exe.config
+C:\Users\ogs10_000\Documents\Visual Studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\nunit-agent-x86.exe.config
