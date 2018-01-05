@@ -1,0 +1,8 @@
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\FizzBuzzServiceLibrary.dll.config
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\FizzBuzzServiceLibrary.dll
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\FizzBuzzServiceLibrary.pdb
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\obj\Debug\FizzBuzzServiceLibrary.csprojResolveAssemblyReference.cache
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\obj\Debug\FizzBuzzServiceLibrary.dll
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\obj\Debug\FizzBuzzServiceLibrary.pdb
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\log4net.dll
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\FizzBuzzServiceLibrary\bin\Debug\log4net.xml

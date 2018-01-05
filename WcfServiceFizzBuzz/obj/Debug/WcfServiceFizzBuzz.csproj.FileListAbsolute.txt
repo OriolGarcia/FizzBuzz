@@ -1,0 +1,11 @@
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\WcfServiceFizzBuzz.dll.config
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\WcfServiceFizzBuzz.dll
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\WcfServiceFizzBuzz.pdb
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\FizzBuzzServiceLibrary.dll
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\FizzBuzzServiceLibrary.pdb
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\FizzBuzzServiceLibrary.dll.config
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\obj\Debug\WcfServiceFizzBuzz.csprojResolveAssemblyReference.cache
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\obj\Debug\WcfServiceFizzBuzz.dll
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\obj\Debug\WcfServiceFizzBuzz.pdb
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\log4net.dll
+c:\users\ogs10_000\documents\visual studio 2017\Projects\FizzBuzzProject\WcfServiceFizzBuzz\bin\log4net.xml
