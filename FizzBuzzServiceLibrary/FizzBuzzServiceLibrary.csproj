@@ -49,8 +49,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CustomException.cs" />
-    <Compile Include="fizzBuzz.cs" />
-    <Compile Include="fizzBuzzService.cs" />
+    <Compile Include="FizzBuzz.cs" />
+    <Compile Include="FizzBuzzService.cs" />
     <Compile Include="IfizzBuzzService.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
